@@ -9,10 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+#Includes paid plugins.
+/Assets/Plugins/
+/Assets/HeroEditor/
 
-*.png
-*.png.meta
-*.cs.meta
 
 
 # MemoryCaptures can get excessive in size.

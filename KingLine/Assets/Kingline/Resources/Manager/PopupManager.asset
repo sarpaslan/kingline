@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d451b6288a0ffb47b36d79e3c4cde89, type: 3}
+  m_Name: PopupManager
+  m_EditorClassIdentifier: 
+  Canvas: {fileID: 7545627359281244820, guid: 56cc0c6835987d74895b2a37d282be8e, type: 3}
+  PopupContainer: {fileID: 3334892011772493212, guid: b8c1fe68ff516604a99f661588da2161, type: 3}
+  PopupButton: {fileID: 7591365132433475329, guid: ebaef87ca6e1a954eafd7a3dca20acd0, type: 3}
+  PopupText: {fileID: 8048218039311874483, guid: c7c6fc09d4c0d24459fdc15e00469d44, type: 3}
+  PopupImage: {fileID: 3795838853936696679, guid: 1e60aa889a468e44597df9b86e36bc1a, type: 3}
+  ItemSelectPopup: {fileID: 3705014527671699567, guid: 269c09d05e32a6f4aa7fa1fe83ec7adc, type: 3}
+  PlayerTeamView: {fileID: 5514962513695276220, guid: f7e6f4cadbc25234c8e644ddc677cbb0, type: 3}
+  PlayerSkillView: {fileID: 3756209903553369776, guid: 549bc08b13b87ee4e889939bb5c3771d, type: 3}
+  PlayerNameView: {fileID: 6474141283759388663, guid: 9e959b955672e4241becfd9a7355ce08, type: 3}
+  PlayerLevelView: {fileID: 5308049825897198032, guid: 25efcc8657c3ead4a9e4147f0c5ea3a8, type: 3}
+  SelectAmountView: {fileID: 3144715397692086816, guid: 4ad3d84a28b63a7498c770eceb87af4a, type: 3}
+  PlayerSkillPointView: {fileID: 3716227185607746348, guid: e682634e710ead94eb7220122e66cbf2, type: 3}
+  InventoryView: {fileID: 5913200733525715324, guid: 47e219a0b7e62c24d83ee8c7cc122129, type: 3}
+  SellItemView: {fileID: 8085626882489401622, guid: 70ce7beb396d24640b413af4c56013c1, type: 3}
+  ScrollableInventoryView: {fileID: 1471441203863859101, guid: 60f5bf727dbf77a479ddc66ef99fbafa, type: 3}
+  ItemInfoView: {fileID: 3828401065346335361, guid: 3565ca805f0ae87439994fed0f25b06c, type: 3}
+  CharacterTextureView: {fileID: 6053305302201772576, guid: 075264651a4cdc34b850fb3b69918d71, type: 3}
+  PlayerGearInventoryView: {fileID: 2060060823217596602, guid: 6bcaa6017c76e8241a18d7abf9173060, type: 3}
